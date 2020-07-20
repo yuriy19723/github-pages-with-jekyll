@@ -1,7 +1,7 @@
-title: minima
+title: Your awesome title my-first-blog
 author: yuriy19723
 email: yuriy1972@libero.it
-description: minima
+description:  > # this means to ignore newlines until https://yuriy19723.github.io/github-pages-with-jekyll/
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
